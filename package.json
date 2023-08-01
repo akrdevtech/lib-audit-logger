@@ -39,6 +39,6 @@
   "dependencies": {
     "moment-timezone": "^0.5.38",
     "morgan": "^1.10.0",
-    "winston": "^3.8.2"
+    "winston": "^3.10.0"
   }
 }
